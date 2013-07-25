@@ -11,6 +11,7 @@ namespace GitDemo1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git World!");
+            Console.Read();
         }
     }
 }
